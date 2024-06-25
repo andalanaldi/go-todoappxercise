@@ -12,7 +12,7 @@ I learn Go by practice with a fullstack project that I follow through tutorials 
 
 It is still ongoing so, I will update again later on.
 
-## Tech
+## Tech Stack
 
 ### Backend
 - Golang (Go Programming Language)
@@ -20,3 +20,11 @@ It is still ongoing so, I will update again later on.
 - Fiber (Golang library for API)
 - Bson (Golang library package for binary JSON)
 - MongoDB (NoSQL Database to store Todo list related data)
+
+### Frontend
+- React (Javascript library to build Frontend app)
+- Chakra UI (UI library in react to give style and CSS for ToDo App)
+- React icons (imported to display icons in Navbar)
+- Tan Stack (To fetch API and query, NOT BEING USED YET)
+
+Deployment or Portfolio Documentation ? (will be updated soon)
