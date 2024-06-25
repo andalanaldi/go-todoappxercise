@@ -11,3 +11,12 @@ I learn Go by practice with a fullstack project that I follow through tutorials 
 - Connect with [Aldi Andalan on LinkedIn](https://www.linkedin.com/in/aldi-andalan/)!
 
 It is still ongoing so, I will update again later on.
+
+## Tech
+
+### Backend
+- Golang (Go Programming Language)
+- Air (Golang equivalent of nodemon in Javascript)
+- Fiber (Golang library for API)
+- Bson (Golang library package for binary JSON)
+- MongoDB (NoSQL Database to store Todo list related data)
