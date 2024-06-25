@@ -1,6 +1,6 @@
 # Fullstack React and Go ToDo App 
 
-I learn Go through a fullstack project through tutorials on youtube. Here are the Resources:
+I learn Go by practice with a fullstack project that I follow through tutorials on youtube. The tutorials are from freeCodeCamp and Burak Orkmez as a tutor from As a Programmer YouTube Channel. Hand-on experience in fulstack development like this is important to get a better understanding of a fullstack react and golang. For those who are curious, you can try this practice/exercise. Here are the Resources for your reference:
 
 ## Useful Resources
 
