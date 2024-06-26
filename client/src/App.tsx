@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App
+
+// UIDesign&FetchAPIFromReact complete-available for deployment(3rdpart)
